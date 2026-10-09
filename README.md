@@ -4,6 +4,10 @@ A simple and responsive **Music Player** built using **HTML, CSS, and JavaScript
 
 This project allows users to play songs, control playback, adjust volume, seek through a song, and switch between tracks using a clean and minimal interface.
 
+## 🔗 Live Demo
+
+**[🎧 Open Music Player](https://shri-ram-n.github.io/music-player/)**
+
 ## ✨ Features
 
 * ▶️ Play and pause songs
@@ -22,6 +26,7 @@ This project allows users to play songs, control playback, adjust volume, seek t
 * **HTML5** – Structure of the music player
 * **CSS3** – Styling, layout, animations, and responsive design
 * **JavaScript** – Audio controls, song management, progress tracking, and UI updates
+* **HTML5 Audio API** – Handling audio playback and audio events
 
 ## 🎶 Songs Included
 
@@ -51,7 +56,7 @@ music-player/
     └── song3.webp
 ```
 
-## 🚀 How to Run
+## 🚀 How to Run Locally
 
 1. Clone the repository:
 
@@ -76,7 +81,7 @@ This project helped me practice:
 * Handling audio events such as `play`, `pause`, `timeupdate`, `loadedmetadata`, and `ended`
 * Updating UI elements dynamically
 * Working with arrays and objects
-* Using JavaScript to create interactive user interfaces
+* Creating interactive user interfaces
 
 ## 🔮 Possible Future Improvements
 
