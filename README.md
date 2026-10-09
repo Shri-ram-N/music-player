@@ -22,7 +22,6 @@ This project allows users to play songs, control playback, adjust volume, seek t
 * **HTML5** – Structure of the music player
 * **CSS3** – Styling, layout, animations, and responsive design
 * **JavaScript** – Audio controls, song management, progress tracking, and UI updates
-* **HTML5 Audio API** – Handling audio playback
 
 ## 🎶 Songs Included
 
